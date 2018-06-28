@@ -27,7 +27,11 @@ In summary, this submission contains the following artifacts:
 3.	The files related to recall and precision experiments done for Oreo.
 # References
 [1] Hitesh Sajnani, Vaibhav Saini, Jeffrey Svajlenko, Chanchal K Roy, and Cristina V Lopes. 2016. SourcererCC: Scaling code clone detection to big-code. In Proceedings of the 38th International Conference on Software Engineering (ICSE16). IEEE, 1157–1168.
+
 [2] Chanchal K Roy and James R Cordy. 2008. NICAD: Accurate detection of nearmiss intentional clones using flexible pretty-printing and code normalization. In Proceedings of the 16th IEEE International Conference on Program Comprehension (ICPC08). IEEE, 172–181.
+
 [3] Jeffrey Svajlenko and Chanchal K Roy. 2017. Fast and flexible large-scale clone detection with cloneworks. In Proceedings of the 39th International Conference on Software Engineering Companion. IEEE Press, 27–30.
+
 [4] Lingxiao Jiang, Ghassan Misherghi, Zhendong Su, and Stephane Glondu. 2007. Deckard: Scalable and accurate tree-based detection of code clones. In Proceedings of the 29th International Conference on Software Engineering. IEEE Computer Society, 96–105.
+
 [5] Stefan Bellon, Rainer Koschke, Giulio Antoniol, Jens Krinke, and Ettore Merlo. 2007. Comparison and Evaluation of Clone Detection Tools. IEEE Transactions on Software Engineering 33, 9 (Sept 2007), 577–591.
