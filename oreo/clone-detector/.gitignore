@@ -2,7 +2,6 @@
 NODE*
 *index
 # query*
-input/dataset/*
 *.scc
 dist*
 SCC_LOGS*
